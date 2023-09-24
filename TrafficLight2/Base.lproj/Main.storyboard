@@ -39,7 +39,7 @@
                                 <color key="backgroundColor" red="0.93725490570000003" green="0.93725490570000003" blue="0.95686274770000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <state key="normal" title="START"/>
                                 <connections>
-                                    <action selector="colorButtonPressed" destination="BYZ-38-t0r" eventType="touchUpInside" id="WgO-3Y-xFu"/>
+                                    <action selector="colorButtonPressed" destination="BYZ-38-t0r" eventType="touchUpInside" id="rwT-PF-xg2"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -47,8 +47,8 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
-                        <outlet property="colorButton" destination="Nja-cs-pug" id="P8g-a7-esi"/>
-                        <outlet property="greenLighView" destination="0Dk-dy-e3c" id="Rs2-lh-Niy"/>
+                        <outlet property="colorButton" destination="Nja-cs-pug" id="gu4-bU-bml"/>
+                        <outlet property="greenLighView" destination="0Dk-dy-e3c" id="rl5-II-thv"/>
                         <outlet property="redLighView" destination="a6N-WA-9Li" id="5ch-te-jwv"/>
                         <outlet property="yellowLightView" destination="ueT-sB-4sk" id="fJS-Fq-oUc"/>
                     </connections>
